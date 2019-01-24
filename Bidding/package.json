@@ -1,0 +1,21 @@
+{
+  "name": "Bidder",
+  "version": "0.1.0",
+  "description": "Bidder",
+  "main": "hello-world-server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
